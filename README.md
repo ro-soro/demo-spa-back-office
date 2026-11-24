@@ -8,7 +8,7 @@ A back-office web app for a Thai massage & spa shop — daily treatment log, cou
 
 ## Live demo
 
-**Demo:** _(Vercel URL)_
+**Demo:** https://demo-spa-back-office.vercel.app
 
 The login page shows one-click demo accounts (password `demo1234` for all):
 
